@@ -7,7 +7,7 @@ Questions? Reach out to the author: rcali@loni.usc.edu
 Information about the ENIGMA DWI Protcol can be found here: https://enigma.ini.usc.edu/protocols/dti-protocols/#pre
 
 
-# Software used in this repository:
+## Software used in this repository:
 
 FSL - https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FslInstallation
 <br>
