@@ -12,3 +12,7 @@ Information about the ENIGMA DWI Protcol can be found here: https://enigma.ini.u
 FSL - https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FslInstallation
 <br>
 MRtrix3 - https://www.mrtrix.org/download/
+
+## Data
+
+Data used in this repository can be downloaded here: https://openneuro.org/datasets/ds001907/versions/3.0.2 and is part of a study on Parkinson's Disease patients and healthy controls.
