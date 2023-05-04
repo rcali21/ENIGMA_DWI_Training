@@ -1,0 +1,1 @@
+This data consists of 4 subjects from a study on Parkinson's Disease (further info available in README). The data consists of two PD patients (subject ID: R2*) and two healthy controls (subject ID: R1*).
