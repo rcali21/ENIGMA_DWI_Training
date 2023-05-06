@@ -1,4 +1,8 @@
-# ENIGMA DWI Training ![image](https://user-images.githubusercontent.com/71532882/236649110-83b2c82b-3aed-472e-ad43-b499fad76c4e.png)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/71532882/236649110-83b2c82b-3aed-472e-ad43-b499fad76c4e.png" alt="IGC red full text" width="45%" height="45%">
+</div>
+
+# ENIGMA DWI Training
 
 Repository containing files associated with ENIGMA diffusion weighted image processing protocol and video series. Designed by Ryan Cali for the 2022 ReproNim Fellowship Project and the Imaging Genetics Center at the University of Southern California. 
 
