@@ -18,3 +18,6 @@ MRtrix3 - https://www.mrtrix.org/download/
 Data used in this repository can be downloaded here: https://openneuro.org/datasets/ds001907/versions/3.0.2 and is part of a study on Parkinson's Disease patients and healthy controls.
 
 **Citation:** Trevor K. M. Day and Tara M. Madyastha and Peter Boord and Mary K. Askren and Nicholas J. Wapstra and Thomas J. Montine and Thomas J. Grabowski (2022). ANT: Healthy aging and Parkinson's disease. OpenNeuro. [Dataset] doi: doi:10.18112/openneuro.ds001907.v3.0.2
+
+
+![image](https://user-images.githubusercontent.com/71532882/236649098-7d514c18-d106-49bd-a471-e1fd37e53239.png)
