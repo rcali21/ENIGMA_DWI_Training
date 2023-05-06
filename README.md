@@ -28,7 +28,7 @@ Data used in this repository can be downloaded here: https://openneuro.org/datas
 
 
 
-<img src="https://user-images.githubusercontent.com/71532882/236649522-5157df8d-3b8a-43eb-b871-88268c11fa60.png" alt="ReproNim" width="15%" height="15%" align="right">
+<img src="https://user-images.githubusercontent.com/71532882/236649522-5157df8d-3b8a-43eb-b871-88268c11fa60.png" alt="ReproNim" width="10%" height="10%" align="right">
 
 
 
