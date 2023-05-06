@@ -1,4 +1,5 @@
-# ENIGMA DWI Training
+# ENIGMA DWI Training ![image](https://user-images.githubusercontent.com/71532882/236649110-83b2c82b-3aed-472e-ad43-b499fad76c4e.png)
+
 Repository containing files associated with ENIGMA diffusion weighted image processing protocol and video series. Designed by Ryan Cali for the 2022 ReproNim Fellowship Project and the Imaging Genetics Center at the University of Southern California. 
 
 Questions? Reach out to the author: rcali@loni.usc.edu
@@ -19,5 +20,3 @@ Data used in this repository can be downloaded here: https://openneuro.org/datas
 
 **Citation:** Trevor K. M. Day and Tara M. Madyastha and Peter Boord and Mary K. Askren and Nicholas J. Wapstra and Thomas J. Montine and Thomas J. Grabowski (2022). ANT: Healthy aging and Parkinson's disease. OpenNeuro. [Dataset] doi: doi:10.18112/openneuro.ds001907.v3.0.2
 
-
-![image](https://user-images.githubusercontent.com/71532882/236649098-7d514c18-d106-49bd-a471-e1fd37e53239.png)
