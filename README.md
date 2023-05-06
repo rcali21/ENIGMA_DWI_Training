@@ -1,6 +1,9 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/71532882/236649110-83b2c82b-3aed-472e-ad43-b499fad76c4e.png" alt="IGC red full text" width="45%" height="45%">
-</div>
+<a href="https://enigma.ini.usc.edu/">
+  <div align="center">
+    <img src="https://user-images.githubusercontent.com/71532882/236649110-83b2c82b-3aed-472e-ad43-b499fad76c4e.png" alt="IGC red full text" width="45%" height="45%">
+  </div>
+</a>
+
 
 # ENIGMA DWI Training
 
@@ -24,13 +27,12 @@ Data used in this repository can be downloaded here: https://openneuro.org/datas
 
 **Citation:** Trevor K. M. Day and Tara M. Madyastha and Peter Boord and Mary K. Askren and Nicholas J. Wapstra and Thomas J. Montine and Thomas J. Grabowski (2022). ANT: Healthy aging and Parkinson's disease. OpenNeuro. [Dataset] doi: doi:10.18112/openneuro.ds001907.v3.0.2
 
-<img src="https://user-images.githubusercontent.com/71532882/236649152-2f778f00-9484-466c-be23-e97a0e3d60f7.png" alt="IGC red full text" width="35%" height="35%" align="right">
+
+<a href="https://igc.ini.usc.edu/"><img src="https://user-images.githubusercontent.com/71532882/236649152-2f778f00-9484-466c-be23-e97a0e3d60f7.png" alt="IGC red full text" width="35%" height="35%" align="right"></a>
 
 
 
-<img src="https://user-images.githubusercontent.com/71532882/236649522-5157df8d-3b8a-43eb-b871-88268c11fa60.png" alt="ReproNim" width="13%" height="13%" align="right">
-
-
+<a href="https://www.repronim.org/"><img src="https://user-images.githubusercontent.com/71532882/236649522-5157df8d-3b8a-43eb-b871-88268c11fa60.png" alt="ReproNim" width="13%" height="13%" align="right"></a>
 
 
 
