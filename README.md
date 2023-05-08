@@ -37,3 +37,6 @@ Data used in this repository can be downloaded here: https://openneuro.org/datas
 
 
 
+## Video tutorials
+Video tutorials can be found on the [wiki](https://github.com/rcali21/ENIGMA_DWI_Training/wiki).
+
