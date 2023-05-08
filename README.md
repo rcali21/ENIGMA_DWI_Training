@@ -28,7 +28,7 @@ Data used in this repository can be downloaded here: https://openneuro.org/datas
 **Citation:** Trevor K. M. Day and Tara M. Madyastha and Peter Boord and Mary K. Askren and Nicholas J. Wapstra and Thomas J. Montine and Thomas J. Grabowski (2022). ANT: Healthy aging and Parkinson's disease. OpenNeuro. [Dataset] doi: doi:10.18112/openneuro.ds001907.v3.0.2
 
 
-<a href="https://igc.ini.usc.edu/"><img src="https://user-images.githubusercontent.com/71532882/236710395-09aa5dad-a7df-4316-a8f1-7a9f07fe8358.png" alt="IGC red full text" width="10%" height="10%" align="right"></a>
+<a href="https://igc.ini.usc.edu/"><img src="https://user-images.githubusercontent.com/71532882/236710395-09aa5dad-a7df-4316-a8f1-7a9f07fe8358.png" alt="IGC red full text" width="9%" height="9%" align="right"></a>
 
 
 <a href="https://www.repronim.org/"><img src="https://user-images.githubusercontent.com/71532882/236649522-5157df8d-3b8a-43eb-b871-88268c11fa60.png" alt="ReproNim" width="13%" height="13%" align="right"></a>
