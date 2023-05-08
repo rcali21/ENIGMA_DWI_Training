@@ -9,7 +9,7 @@
 
 Repository containing files associated with ENIGMA diffusion weighted image processing protocol and video series. Designed by Ryan Cali for the 2022 ReproNim Fellowship Project and the Imaging Genetics Center at the University of Southern California. 
 
-**--NOTE--** This processing pipeline details one way to prepare your data for it to be used with the ENGIMA DTI template and is NOT exhaustive. Based on a number of variables, incuding data quality, acquisition type, and other MRI vendor specifics, variations to the pipeline may need to be made. 
+**--NOTE--** This processing pipeline details one way to prepare your data for it to be used with the ENGIMA DTI template and is NOT exhaustive. Based on a number of variables, incuding data quality, acquisition type, and other MRI vendor specifics, variations to the pipeline may need to be made and additional steps may improve data cleaning outcomes.
 
 Questions? Reach out to the author: rcali@loni.usc.edu
 
