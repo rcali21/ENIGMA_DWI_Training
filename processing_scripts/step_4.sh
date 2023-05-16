@@ -2,23 +2,16 @@
 
 cd ../data
 
-subjects=(sub-RC4111 sub-RC4119 sub-RC4210 sub-RC4217)
-
+#subjects=(sub-RC4111 sub-RC4119 sub-RC4210 sub-RC4217)
+subjects=(sub-RC4111)
 for subject in ${subjects[@]} ; 
 do
-	echo "Denoising >>> ${subject} <<<"
-    echo ""
-    # Denoise image
-    cmd="dwidenoise ${subject}/ses-1/dwi/${subject}*dwi*.nii.gz derivatives/${subject}/ses-1/dwi/denoised_dwi.nii.gz -noise derivatives/${subject}/ses-1/dwi/${subject}_noise.nii.gz -force"
-    echo ""
-    echo $cmd
-    eval $cmd
+	echo "Running Eddy current and motion correction on >>> ${subject} <<<"
 
-    # Generate residuals (This allows us to view what denoising did to our data)
-    cmd1="mrcalc ${subject}/ses-1/dwi/${subject}_ses-1_dwi.nii.gz derivatives/${subject}/ses-1/dwi/denoised_dwi.nii.gz -subtract derivatives/${subject}/ses-1/dwi/denoised_residuals.nii.gz"
-    echo ""
-    echo $cmd1
-    eval $cmd1
+    cmd6="dwifslpreproc derivatives/${subject}/ses-1/dwi/dendg_dwi.nii.gz derivatives/${subject}/ses-1/dwi/preproc_dwi.nii.gz -fslgrad ${subject}/ses-1/dwi/*bvec ${subject}/ses-1/dwi/*bval -rpe_none -pe_dir AP -json_import ${subject}/ses-1/dwi/*.json -readout_time 0.045 -export_grad_fsl derivatives/${subject}/ses-1/dwi/eddy_bvecs derivatives/${subject}/ses-1/dwi/eddy_bvals -force"
+
+    echo $cmd6
+    eval $cmd6
 
 done
 

@@ -2,7 +2,8 @@
 
 cd ../data
 
-subjects=(sub-RC4111 sub-RC4119 sub-RC4210 sub-RC4217)
+#subjects=(sub-RC4111 sub-RC4119 sub-RC4210 sub-RC4217)
+subjects=(sub-RC4111)
 
 for subject in ${subjects[@]} ; 
 do
