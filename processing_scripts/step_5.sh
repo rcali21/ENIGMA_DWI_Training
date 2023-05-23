@@ -9,7 +9,7 @@ for subject in ${subjects[@]} ;
 do
 	echo "Performing brain extraction on >>> ${subject} <<<"
     echo ""
-    cmd="dwi2mask derivatives/${subject}/ses-1/dwi/preproc_dwi.nii.gz derivatives/${subject}/ses-1/dwi/preproc_dwi_mask.nii.gz"
+    cmd="dwi2mask derivatives/${subject}/ses-1/dwi/preproc_dwi.nii.gz derivatives/${subject}/ses-1/dwi/preproc_dwi_mask.nii.gz -fslgrad derivatives/${subject}/ses-1/dwi/eddy_bvecs derivatives/${subject}/ses-1/dwi/eddy_bvals"
     echo ""
     echo $cmd
     eval $cmd
